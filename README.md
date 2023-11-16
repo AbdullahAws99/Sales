@@ -1,5 +1,8 @@
 # Sales
 
+
+![WhatsApp Image 2023-11-15 at 17 58 47_1f81dc0e](https://github.com/AbdullahAws99/Sales/assets/97203899/589f1a3b-5c44-4ed0-a1c3-74b6d06ab25c)
+
 I started a virtual training journey with MeriSKILL 📊
 
 My first project was to analyze the sales of a store specializing in electronic devices (mobile phones, screens, etc.). In this project, I explain, as usual, the most important ideas and solutions extracted.🌟
