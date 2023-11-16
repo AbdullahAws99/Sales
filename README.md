@@ -41,6 +41,8 @@ Used in #DataAnalytics:📊
 
 Dashboard link✨
 
+https://app.powerbi.com/view?r=eyJrIjoiMmM2MTNkNmQtNjIwZS00NTM2LWE1ZjAtZjhmYWE0MmI1YWNlIiwidCI6ImNmNzIyMWNkLTNiYzYtNDEwMS04NzYyLTU0ZjQ0ZjNiYzg5YSIsImMiOjl9&pageName=ReportSection8659d07c25b72019b50e
+
 https://lnkd.in/d_Fn6D-5 pageName=ReportSection8659d07c25b72019b50e
 
 Don't forget me in your good prayers
